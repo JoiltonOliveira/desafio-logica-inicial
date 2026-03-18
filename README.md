@@ -1,6 +1,6 @@
-# Desafio DIO – Classificador de Nível de Herói
+# Desafio DIO – Classificador de Nível de Pirata
 
-Este projeto é um exercício em JavaScript que classifica o nível de um herói com base em sua experiência (XP) e exibe uma mensagem específica de personagem usando `switch`.
+Este projeto é um exercício em JavaScript que classifica o nível de um Pirata com base em sua experiência (XP) e exibe uma mensagem específica de personagem usando `switch`.
 
 ---
 
@@ -17,9 +17,9 @@ node index.js
 
 ## ✅ O que está implementado
 
-- Uso de objetos para representar um herói
+- Uso de objetos para representar um pirata
 - Uso de condicionais `if / else if / else` para determinar o nível a partir do XP
-- Uso de `switch / case / default` para exibir uma mensagem com base no nome do herói
+- Uso de `switch / case / default` para exibir uma mensagem com base no nome do pirata
 - Saída de texto no console
 
 ---
