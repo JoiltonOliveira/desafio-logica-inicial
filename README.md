@@ -40,5 +40,3 @@ No arquivo `index.js`, altere estas duas propriedades do objeto `pirataDoChapeuD
 - Praticar lógica simples em JavaScript
 
 ---
-
-*Divirta-se construindo e personalizando!*
